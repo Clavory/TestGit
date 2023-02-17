@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\TEST\TEST\TEST\bin\Debug\netstandard2.0\TEST.deps.json
+C:\Users\User\source\repos\TEST\TEST\TEST\bin\Debug\netstandard2.0\TEST.dll
+C:\Users\User\source\repos\TEST\TEST\TEST\bin\Debug\netstandard2.0\TEST.pdb
+C:\Users\User\source\repos\TEST\TEST\TEST\obj\Debug\netstandard2.0\TEST.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TEST\TEST\TEST\obj\Debug\netstandard2.0\TEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TEST\TEST\TEST\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\source\repos\TEST\TEST\TEST\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\source\repos\TEST\TEST\TEST\obj\Debug\netstandard2.0\TEST.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TEST\TEST\TEST\obj\Debug\netstandard2.0\TEST.AssemblyInfo.cs
+C:\Users\User\source\repos\TEST\TEST\TEST\obj\Debug\netstandard2.0\TEST.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TEST\TEST\TEST\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\source\repos\TEST\TEST\TEST\obj\Debug\netstandard2.0\TEST.dll
+C:\Users\User\source\repos\TEST\TEST\TEST\obj\Debug\netstandard2.0\refint\TEST.dll
+C:\Users\User\source\repos\TEST\TEST\TEST\obj\Debug\netstandard2.0\TEST.pdb
+C:\Users\User\source\repos\TEST\TEST\TEST\obj\Debug\netstandard2.0\ref\TEST.dll
